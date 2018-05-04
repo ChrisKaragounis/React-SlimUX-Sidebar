@@ -20,17 +20,21 @@ yarn and npm support comming soon.
 
 Properties: 
 Menu :
-    PageInnerContainerId : Defines the id of the Main Page where your contents are. ##(Required)
-    Slider: Enables a sliding effect over the hovered items in the menu. ##(Optional)
+    PageInnerContainerId : Defines the id of the Main Page where your contents are. **(Required)**
+    
+    Slider: Enables a sliding effect over the hovered items in the menu. **(Optional)**
 MenuItem :
-    IconClass : Class of the Icon you would like to use from Font-Awesome. ##(Required)
-    isMaster : Sets the current button as the Open/Close button of the menu. ##(Optional)
-    Click : Action to Execute when user selects the item. ##(Optional)
-    Content : The content (text) to be displayed next to the icon. ##(Optional)
+    IconClass : Class of the Icon you would like to use from Font-Awesome. **(Required)**
+    
+    isMaster : Sets the current button as the Open/Close button of the menu. **(Optional)**
+    
+    Click : Action to Execute when user selects the item. **(Optional)**
+    
+    Content : The content (text) to be displayed next to the icon. **(Optional)**
     
 ## Usage
 This Siderbar was created as an easy to use alternative to all the other bloated ones. It is fast, lite and easy to use.
-By default it has no contents at all. The content is up to you to decide. In the * [Preview] section you can see one example of it.
+By default it has no contents at all. The content is up to you to decide. In the [Preview] section you can see one example of it.
 
 
 ## Example
