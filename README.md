@@ -20,10 +20,12 @@ yarn and npm support comming soon.
 
 Properties: 
 Menu :
+
     PageInnerContainerId : Defines the id of the Main Page where your contents are. **(Required)**
     
     Slider: Enables a sliding effect over the hovered items in the menu. **(Optional)**
-MenuItem :
+MenuItem 
+
     IconClass : Class of the Icon you would like to use from Font-Awesome. **(Required)**
     
     isMaster : Sets the current button as the Open/Close button of the menu. **(Optional)**
